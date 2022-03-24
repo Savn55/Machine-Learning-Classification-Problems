@@ -1,1 +1,2 @@
-# Machine-Learning-Classification-Problems
+# Machine-Learning-Classification-Projects
+## Basic projects for practice Classification problems 
